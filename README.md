@@ -1,3 +1,3 @@
-# vidyo.ai_pricing_page
+# tic-tac-toe
 
 The code is hosted on Vercel platform: 
